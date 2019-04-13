@@ -1,8 +1,8 @@
 # homeownership_is_toast
 
-# We are comparing the median list price of an apartment to the average price of avocados - by city. 
+# We are comparing the median list price of a home to the average price of avocados - by city. 
 
-# We scraped real estate data by city from zillow.com's API & pulled avocado prices from Kaggle in a csv - which is compiled from the Haas Avocado Board. 
+# We grabbed real estate data by city from Realtor.com & pulled avocado prices from Kaggle in a csv - which is compiled from the Haas Avocado Board. 
 
 # We were inspired by Tim Gurner, an Australian Millionaire, who infamously claimed millennials can't afford to buy their first home because they are spending too much money on frivolous purchases, like avocado toast. 
 
